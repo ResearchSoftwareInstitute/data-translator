@@ -33,7 +33,7 @@ The integrated feature tables are created via a custom software application pipe
 
 ![CAMP FHIR/FHIR PIT Conversion and Integration Pipeline](CAMP-FHIR_FHIR-PIT.png)
 
-With ICEES, regulatory issues were addressed primarily by binning or recoding the data and presenting the data to users in aggregate form only
+With ICEES, regulatory issues were addressed primarily by binning or recoding the data and presenting the data to users in aggregate form only.
 
 ![ICEES Integrated Feature Table & Binning Approach](ICEES_Integrated_Feature_Table.png)
 
